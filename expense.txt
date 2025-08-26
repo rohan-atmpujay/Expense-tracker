@@ -1,0 +1,4 @@
+Expense: name | Category: 🍔 food | Amount: $200.0
+Expense: nams | Category: 🏠 house | Amount: $200.0
+Expense: n2m | Category: 🍔 food | Amount: $21.0
+Expense: namw | Category: 🏠 house | Amount: $2999.0
